@@ -1,6 +1,6 @@
 # How to Customize **Bio Link Tool** for yourself
 
-1. Copy the entire src folder
+1. Copy the entire [src](https://github.com/VShabadi/bio-link-tool/tree/main/src) folder
 2. Name your site.
 `<title>[NAME] Bio-Link-Tool</title>` *L.7*
 3. Add your profile picture to this path:
