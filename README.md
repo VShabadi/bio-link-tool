@@ -13,9 +13,13 @@ Copy and paste this segment or delete it to reach your desired number of items.
     <i class="fab fa-[ICON]">&nbsp;</i>[SITE NAME]
 </a>`
 
-5.1. Add the website's link.
+6. Add the website's link.
 `<a class="link" href="[LINK]" target="_blank">`
-5.2. Choose an icon from [Font Awesome](https://fontawesome.com/v4.7/icons/).
+
+7. Choose an icon from [Font Awesome](https://fontawesome.com/v4.7/icons/).
 `<i class="fab fa-[ICON]">&nbsp;</i>[SITE NAME]`
-5.3. Add the website's name.
-6. Publish the folder.
+
+8. Add the website's name.
+
+
+9. Publish the folder.
