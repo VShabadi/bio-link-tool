@@ -20,6 +20,5 @@ Copy and paste this segment or delete it to reach your desired number of items.
 `<i class="fab fa-[ICON]">&nbsp;</i>[SITE NAME]`
 
 8. Add the website's name.
-
-
 9. Publish the folder.
+10. Here is a working [example](https://github.com/VShabadi/bio-link-tool/blob/main/index.html).
