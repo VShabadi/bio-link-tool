@@ -69,6 +69,25 @@ body {
   text-decoration: none;
 }
 
+.bio {
+  color: var(--accentColor);
+  font-size: x;
+  line-height: 2;
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+
+.title {
+  color: var(--accentColor);
+  font-size: x-large;
+  line-height: 1;
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
 .links {
   max-width: 675px;
   width: auto;
@@ -96,7 +115,6 @@ body {
 @media (hover: hover) {
   .link:hover {
     background-color: var(--accentColor);
-    color: #000; /* Fallback for older browsers */
     color: rgba(0, 0, 0, 0.5);
   }
 }
