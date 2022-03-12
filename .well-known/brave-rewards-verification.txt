@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vshabadi.github.io
+Token: c7847b742ba1549bd73726ead38419eeaa292f32b0c931dc0fef891c69201d83
